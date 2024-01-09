@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VideoCatalog.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://assets.acmeaom.com/interview-project/uwpvideos.json</Value>
+    </Setting>
+    <Setting Name="GetVideosUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://assets.acmeaom.com/interview-project/uwpvideos.json</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
